@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>App</h1>
+        <h1>URL Shortener</h1>
         <nav v-if="!userStore.loadingSession">
             <router-link to="/" v-if="userStore.userData">Home</router-link>
             <router-link to="/login" v-if="!userStore.userData">Login</router-link>
