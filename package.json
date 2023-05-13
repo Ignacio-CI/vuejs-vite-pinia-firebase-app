@@ -13,7 +13,8 @@
     "nanoid": "^4.0.2",
     "pinia": "^2.0.35",
     "vue": "^3.2.47",
-    "vue-router": "^4.1.6"
+    "vue-router": "^4.1.6",
+    "vuetify": "^3.2.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.1.0",
